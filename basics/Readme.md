@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/f49521bf-44eb-4309-b7d9-b69748b6721c)
+[![image](https://github.com/user-attachments/assets/f49521bf-44eb-4309-b7d9-b69748b6721c)](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png)
 
 ### 1. **What is Generative AI?**
 Generative AI is a type of artificial intelligence that can **create new things** from the data it has learned. It doesn’t just give back what you already know, but it produces something **new**—like writing text, drawing images, or making music.
