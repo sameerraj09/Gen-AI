@@ -110,27 +110,37 @@ Each layer in the network refines the data and passes it to the next layer. The 
 Neural networks learn by adjusting weights and biases through training, which involves processing many examples to improve accuracy.
 
 **3. How ChatGPT Uses Neural Networks**
+
 **a. Input Processing**
 Tokenization: ChatGPT breaks down the input text into smaller units called tokens. Each token is processed through the neural network layers.
 Context Understanding: The attention mechanism helps the model understand the context and relationships between tokens to generate appropriate responses.
+
 **b. Generating Responses**
 Prediction: Based on the input, the neural network predicts the next word or phrase in the response. It uses patterns learned during training to generate coherent and contextually relevant text.
+
 **c. Fine-Tuning**
 Refinement: After initial training, the model may be fine-tuned with specific data to improve its performance in particular areas, like answering questions or engaging in conversation.
 **4. Example in Action**
 Let's say you ask ChatGPT: "What’s the weather like today?"
 
-**Input Processing: **The question is broken down into tokens, and these tokens are processed through the neural network layers.
-**Context Understanding:** The model uses its learned knowledge and attention mechanisms to understand that you're asking for current weather information.
-**Response Generation: **Based on its training data and the context of the question, the model generates a response, like "I’m not able to check real-time weather, but you can look it up on a weather website."
+**Input Processing: **
+The question is broken down into tokens, and these tokens are processed through the neural network layers.
+
+**Context Understanding:** 
+The model uses its learned knowledge and attention mechanisms to understand that you're asking for current weather information.
+
+**Response Generation: **
+Based on its training data and the context of the question, the model generates a response, like "I’m not able to check real-time weather, but you can look it up on a weather website."
+
 **Summary**
-Neural Networks: The fundamental technology behind LLMs and ChatGPT, processing and learning from data.
-Transformers: A type of neural network architecture used in LLMs to handle and generate text effectively.
-Training and Prediction: LLMs are trained on vast amounts of text and use neural networks to understand and generate human-like responses.
+**Neural Networks: **The fundamental technology behind LLMs and ChatGPT, processing and learning from data.
+**Transformers:** A type of neural network architecture used in LLMs to handle and generate text effectively.
+**Training and Prediction:** LLMs are trained on vast amounts of text and use neural networks to understand and generate human-like responses.
 Neural networks, especially in the form of transformers, enable ChatGPT and other LLMs to understand and generate text in a way that mimics human language and context.
 
 
-- **Why it matters**: Neural networks allow generative AI to recognize complex patterns in data, like how words fit together in sentences or how colors form objects in images.
+- **Why it matters**:
+-  Neural networks allow generative AI to recognize complex patterns in data, like how words fit together in sentences or how colors form objects in images.
 
 ### 4. **Types of Generative AI Models**
 There are different types of generative AI models designed for different tasks:
