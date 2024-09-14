@@ -2,7 +2,7 @@
 Generative AI is a type of artificial intelligence that can **create new things** from the data it has learned. It doesn’t just give back what you already know, but it produces something **new**—like writing text, drawing images, or making music.
 
 Think of it like a creative tool: you give it a prompt or some information, and it generates something new based on what it knows.
-https://github.com/sameerraj09/Gen-AI/blob/main/basics/Readme.md
+
 ### 2. **How does it work?**
 Generative AI works by learning from **huge amounts of data**. This data could be text (for language models), images (for generating pictures), or other types of content. Once it learns the patterns, it can use those patterns to create new things.
 
