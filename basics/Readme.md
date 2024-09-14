@@ -59,9 +59,8 @@ A **perceptron** is the simplest type of neural network. It consists of:
 
 3. **Calculate Weighted Sum**: Multiply each input by its weight and add them up, including the bias.
 
-   \[
-   \text{Weighted Sum} = (1 \times 0.5) + (1 \times 1.0) + \text{Bias}
-   \]
+  ![image](https://github.com/user-attachments/assets/a42efbea-be4d-4588-af8d-7d415ccbd63e)
+
 
 4. **Activation Function**: Apply the activation function to decide whether to activate the neuron. Common activation functions include:
 
